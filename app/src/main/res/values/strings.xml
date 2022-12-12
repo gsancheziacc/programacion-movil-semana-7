@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GABRIEL_SANCHEZ_S7</string>
+    <!--Demo parameters-->
+    <string name="user_account_test">user</string>
+    <string name="password_account_test">1234</string>
+    <!--Login UI Strings-->
+    <string name="label_user_name">Usuario:</string>
+    <string name="label_password">Contraseña:</string>
+    <string name="user_name_hint">Ingrese nombre de usuario</string>
+    <string name="password_hint">Ingrese contraseña</string>
+    <string name="btnSubmit_display_name">Iniciar Sesión</string>
+    <!--Rut Validator UI Strings-->
+    <string name="rut_validator_title">Validador de rut</string>
+    <string name="label_rut">Rut:</string>
+    <string name="rut_hint">Ingrese RUT (Ej: 123123123)</string>
+    <string name="btnValidate_display_name">Validar</string>
+</resources>
